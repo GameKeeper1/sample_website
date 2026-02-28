@@ -59,3 +59,8 @@ git commit -am "Adding markup test"
 git push
 git commit -am "Convert index page to fully valid HTML"
 git push
+git add -A
+git commit -m "add manuka to page"
+git push
+mkdir images
+touch projects.html
